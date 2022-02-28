@@ -11,7 +11,8 @@ namespace Teste_02
 
         public AverageConsumption()
         {
-
+            this.Distance = 0;
+            this.SpentFuel = 0;
         }
 
         private double A, B;
